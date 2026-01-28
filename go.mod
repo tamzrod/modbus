@@ -1,3 +1,3 @@
-module modbus-client
+module github.com/tamzrod/modbus
 
-go 1.25.0
+go 1.22
